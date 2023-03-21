@@ -1,0 +1,22 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilarodrigues-silva/projeto-cypress.git"
+  },
+  "author": "Neila Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilarodrigues-silva/projeto-cypress/issues"
+  },
+  "homepage": "https://github.com/neilarodrigues-silva/projeto-cypress#readme",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
